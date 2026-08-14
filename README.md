@@ -1,7 +1,6 @@
-# Lucas Garcia | Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade Dom Bosco de Porto Alegre
-##  Conecte-se Comigo
+# Lucas Garcia 
+## Tecnólogo em Análise e Desenvolvimento de Sistemas - Faculdade Dom Bosco de Porto Alegre 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-garcia-00a2411b8/)
-
 ## Habilidades / Conhecimentos
 <p>Banco de Dados</p>
 <ul>
